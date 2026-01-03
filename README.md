@@ -127,18 +127,29 @@ The system produces a **structured audit report**:
 The system follows a modular, agent-based architecture.
 ```
 8. Evaluation Strategy
--ML Model Evaluation
--Risk probability analysis
--Sanity checks on edge cases
--LLM Output Evaluation
--Manual review
--Prompt-based consistency checks
--System Robustness
--Invalid input testing
--Extreme decision scenarios
+ML Model Evaluation
+
+Risk probability analysis
+
+Sanity checks on edge cases
+
+LLM Output Evaluation
+
+Manual review
+
+Prompt-based consistency checks
+
+System Robustness
+
+Invalid input testing
+
+Extreme decision scenarios
+
+
 
 9.Limitations
--Risk scores depend on dataset quality
--Bias detection is partially heuristic
--Not a replacement for professional advice
+Risk scores depend on dataset quality
 
+Bias detection is partially heuristic
+
+Not a replacement for professional advice
