@@ -1,0 +1,13 @@
+loan_amount,family_income,student_score,family_dependents,college_type,college_ranking,course_type,scholarship,loan_interest_rate,risk_label
+800000,400000,65,4,private,3,engineering,no,10.5,1
+300000,700000,82,2,government,1,arts,yes,8.2,0
+600000,500000,70,3,private,2,engineering,no,9.8,1
+200000,900000,88,1,government,1,science,yes,7.9,0
+900000,300000,60,5,private,4,engineering,no,11.0,1
+400000,800000,85,2,government,2,science,yes,8.0,0
+500000,600000,78,3,government,1,arts,yes,8.5,0
+750000,450000,68,4,private,3,engineering,no,10.2,1
+250000,850000,90,1,government,1,science,yes,7.8,0
+650000,550000,72,3,private,2,engineering,no,9.5,1
+1000000,280000,55,6,private,4,engineering,no,11.5,1
+350000,750000,80,2,government,2,arts,yes,8.1,0
